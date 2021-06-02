@@ -1,0 +1,129 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
+    Vendor:   NVIDIA
+    VRAM:     2009 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\System.Data.dll into Unity Child Domain
+- Completed reload, in  0.079 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: C:\Users\rmurr\Documents\Git\Murriero Developer\my past works\Rubik Cube Simulator\Rubiks Cube Simulator_Data\Managed\System.Xml.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2f1c -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.358800 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1489.
+Total: 0.736100 ms (FindLiveObjects: 0.075400 ms CreateObjectMapping: 0.032500 ms MarkObjects: 0.604600 ms  DeleteObjects: 0.023000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.138100 ms
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 1123.
+Total: 0.529000 ms (FindLiveObjects: 0.109300 ms CreateObjectMapping: 0.021100 ms MarkObjects: 0.352500 ms  DeleteObjects: 0.045400 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.464500 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1489.
+Total: 0.548700 ms (FindLiveObjects: 0.083900 ms CreateObjectMapping: 0.019600 ms MarkObjects: 0.428000 ms  DeleteObjects: 0.016500 ms)
+
+Movimento: Front ; xyz = 0/0/90; senso: 0; VET: 0-1-2-3-4-5-6-7-8-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Front ; xyz = 0/0/90; senso: 0; VET: 0-1-2-3-4-5-6-7-8-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Front ; xyz = 0/0/90; senso: 0; VET: 0-1-2-3-4-5-6-7-8-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Front ; xyz = 0/0/90; senso: 0; VET: 0-1-2-3-4-5-6-7-8-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.358800 ms
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 1123.
+Total: 0.530900 ms (FindLiveObjects: 0.124500 ms CreateObjectMapping: 0.024100 ms MarkObjects: 0.335700 ms  DeleteObjects: 0.045600 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.796500 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1489.
+Total: 0.640200 ms (FindLiveObjects: 0.114900 ms CreateObjectMapping: 0.031500 ms MarkObjects: 0.475200 ms  DeleteObjects: 0.017400 ms)
+
+Movimento: Right ; xyz = -90/0/0; senso: 0; VET: 2-11-20-5-14-23-8-17-26-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Back ; xyz = 0/0/-90; senso: 0; VET: 20-19-18-23-22-21-26-25-24-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Up ; xyz = 0/90/0; senso: 0; VET: 18-19-20-9-10-11-0-1-2-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Up ; xyz = 0/-90/0; senso: 1; VET: 18-19-20-9-10-11-0-1-2-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Back ; xyz = 0/0/90; senso: 1; VET: 20-19-18-23-22-21-26-25-24-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Right ; xyz = 90/0/0; senso: 1; VET: 2-11-20-5-14-23-8-17-26-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Left ; xyz = 90/0/0; senso: 0; VET: 18-9-0-21-12-3-24-15-6-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Back ; xyz = 0/0/-90; senso: 0; VET: 20-19-18-23-22-21-26-25-24-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Up ; xyz = 0/90/0; senso: 0; VET: 18-19-20-9-10-11-0-1-2-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Up ; xyz = 0/-90/0; senso: 1; VET: 18-19-20-9-10-11-0-1-2-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Back ; xyz = 0/0/90; senso: 1; VET: 20-19-18-23-22-21-26-25-24-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Movimento: Left ; xyz = -90/0/0; senso: 1; VET: 18-9-0-21-12-3-24-15-6-
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.214800 ms
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 1123.
+Total: 0.595500 ms (FindLiveObjects: 0.085200 ms CreateObjectMapping: 0.029500 ms MarkObjects: 0.433000 ms  DeleteObjects: 0.046900 ms)
+

@@ -1,0 +1,35 @@
+START THE GAME
+
+1) The entire "Rubik's Cube Simulator" folder must be downloaded in order to test the game
+
+2) The folder with the suffix "_Data" is used by the game to load resources and keep track of local records,
+do not delete / modify the folder to avoid unwanted behavior
+
+
+HOW TO PLAY
+
+1) Click with the left button in the center of a face of the cube to rotate it clockwise,
+press the right button instead to rotate it counterclockwise
+
+2) To start a normal game, press "game" in the menu and press "new game",
+the cube will automatically be mixed with 7 random moves and the resolution time will start.
+If you want to mix it with a different number of moves, before pressing "new game" enter the desired
+number of moves in the text box on the right
+
+
+SELF-RESOLUTION
+
+1) The game features an algorithm that solves the cube automatically. Since the complexity is very high,
+do not mix the cube with more than 7 moves before solving it. To start the auto-resolution press "Resolve",
+he will try a maximum number of moves equal to the text box below.
+
+EXTRA
+1) In the "game" menu there are two buttons with two cubes drawn.
+The one with the shuffled cube will shuffle the cube with a number of moves equal to that defined in the
+text box immediately below, while the solved one will return the cube to its original solved version.
+
+2) In the "layout" drop-down menu you can change the color of the cube by choosing between 3 different types.
+
+
+
+Have fun!
