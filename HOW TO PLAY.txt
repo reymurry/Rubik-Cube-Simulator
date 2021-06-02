@@ -1,6 +1,6 @@
 START THE GAME
 
-1) The entire "Rubik's Cube Simulator" folder must be downloaded in order to test the game
+1) Both the .exe executable and the "* _Data" folder are required to test the game. Clone the repository or download the .zip file to play
 
 2) The folder with the suffix "_Data" is used by the game to load resources and keep track of local records,
 do not delete / modify the folder to avoid unwanted behavior
